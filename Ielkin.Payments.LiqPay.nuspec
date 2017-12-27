@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Gameaways.Payments.LiqPay</id>
+    <version>$version$</version>
+    <title>Gameaways.Payments.LiqPay</title>
+    <authors>Gameaways</authors>
+    <owners>Gameaways</owners>
+    <projectUrl>http://www.gameaways.com</projectUrl>
+    <iconUrl>http://cdn.gameaways.com/images/liqpay6.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>LiqPay API implementation using C#</description>
+    <copyright>Copyright 2015 Gameaways</copyright>
+    <licenseUrl>http://www.gameaways.com/Home/Terms</licenseUrl>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="7.0.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Gameaways.Payments.LiqPay\bin\Release\Gameaways.Payments.LiqPay.dll" target="lib\net45" />
+  </files>
+</package>
